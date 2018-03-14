@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ResumeBuilder</string>
+    <string name="title_default">Resume</string>
+    <string name="title_native">Custom Layouts</string>
+    <string name="title_help">Help</string>
+    <string name="title_name">NISHANT</string>
+    <string name="title_info">Email: nishantnks@hotmail.com | Tel: +91-9835762894 | Age: 23 | Male</string>
+    <string name="title_linkedIn">LinkedIn: http://www.linkedin.com/in/iamnishant14</string>
+    <string name="title_desc">A professional with proven ability to grow and flourish through technical skills and expertise. A consummate professional with result-oriented
+attitude, skills in solving complex problems.</string>
+    <string name="title_activity_resume_menu">ResumeMenu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_customs_layout">CustomsLayout</string>
+    <string name="nav_edu">Education</string>
+    <string name="nav_xp">Experience</string>
+    <string name="nav_skills">Skills</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_honors">Awards &amp; Honors</string>
+</resources>

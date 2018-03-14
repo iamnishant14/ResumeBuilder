@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Education Details</string>
+    <string name="schoolName">Name of School / College Attended</string>
+    <string name="cgpa">CGPA / % Marks </string>
+    <string name="bRank">Class / Branch Rank</string>
+    <string name="sSession">Session</string>
+    <string name="sBranch">Class / Branch</string>
+</resources>
